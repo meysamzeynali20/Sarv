@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "Index": [
+                "Components/Index/Exports"
+            ],
+            "Share": [
+                "components/Share/Exports"
+            ],
+            "AboutUs": [
+                "Components/AboutUs/Exports"
+            ],
+            "ContactUs": [
+                "Components/ContactUs/Exports"
+            ],
+            "Articles": [
+                "Components/Articles/Exports"
+            ],
+            "Base": [
+                "Base/Exports"
+            ]
+        }
+    }
+}
